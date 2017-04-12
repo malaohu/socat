@@ -1,5 +1,5 @@
 FROM debian:jessie
-MAINTAINER Ilya Stepanov <dev@ilyastepanov.com>
+MAINTAINER malaohu <tua@live.cn>
 
 RUN apt-get update && \
     apt-get install -y socat && \
